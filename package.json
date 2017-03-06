@@ -1,13 +1,14 @@
 {
   "author": {
     "email": "gajus@gajus.com",
-    "name": "Gajus Kuizinas",
-    "url": "http://gajus.com"
+    "name": "Marco Trevisani",
+    "url": "http://www.marco"
   },
   "dependencies": {
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-types": "^6.19.0",
     "generic-names": "^1.0.2",
+    "lodash": "^4.17.4",
     "postcss": "^5.2.6",
     "postcss-modules": "^0.6.2",
     "postcss-modules-extract-imports": "^1.0.1",
