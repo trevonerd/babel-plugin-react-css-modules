@@ -1,14 +1,22 @@
 {
   "author": {
     "email": "gajus@gajus.com",
+<<<<<<< HEAD
+    "name": "Marco Trevisani",
+    "url": "http://www.marco"
+=======
     "name": "Gajus Kuizinas",
     "url": "http://gajus.com"
+>>>>>>> 00dc4b303ee57406170bfcf10fcf207dbba2cdfa
   },
   "dependencies": {
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-types": "^6.19.0",
     "generic-names": "^1.0.2",
+<<<<<<< HEAD
     "lodash": "^4.17.4",
+=======
+>>>>>>> 00dc4b303ee57406170bfcf10fcf207dbba2cdfa
     "postcss": "^5.2.6",
     "postcss-modules": "^0.6.2",
     "postcss-modules-extract-imports": "^1.0.1",
